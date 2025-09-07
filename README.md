@@ -32,5 +32,7 @@ https://github.com/user-attachments/assets/2fdfc07e-0d17-4e4d-97a0-a214c3a6a3da
 
 <img width="1919" height="1005" alt="Screenshot 2025-09-07 183826" src="https://github.com/user-attachments/assets/9e19e31d-4f2e-4a53-934d-84236857a673" />
 
+<img width="1919" height="1004" alt="Screenshot 2025-09-07 183849" src="https://github.com/user-attachments/assets/86d67858-28a7-4bad-9b24-359503ae91de" />
+
 
 
